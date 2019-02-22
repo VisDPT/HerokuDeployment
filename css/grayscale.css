@@ -372,7 +372,7 @@ body {
     background-attachment: fixed;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     body {
         background-image: url("img/bg-abstract-Black.png");
         background-repeat: repeat;
