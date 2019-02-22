@@ -414,3 +414,16 @@ i:hover {
     color: #fff;
     background-color: none;
 }
+
+body {
+    background-image: url("img/bg-abstract-Black.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+@media (max-width: 768px) {
+    body {
+        background-image: url("img/bg-abstract-Black.png");
+        background-repeat: no-repeat;
+    }
+}
