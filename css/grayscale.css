@@ -375,7 +375,7 @@ body {
 @media (max-width: 768px) {
     body {
         background-image: url("img/bg-abstract-Black.png");
-        background-repeat: repeat-y;
+        background-repeat: repeat-y !important;
     }
 }
 
