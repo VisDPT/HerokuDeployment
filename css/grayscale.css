@@ -368,7 +368,7 @@ html {
 
 body {
     background-image: url("img/bg-abstract-Black.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
 }
 
