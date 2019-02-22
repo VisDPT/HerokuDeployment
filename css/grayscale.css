@@ -368,8 +368,15 @@ html {
 
 body {
     background-image: url("img/bg-abstract-Black.png");
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+@media (min-width: 768px) {
+    body {
+        background-image: url("img/bg-abstract-Black.png");
+        background-repeat: repeat;
+    }
 }
 
 
