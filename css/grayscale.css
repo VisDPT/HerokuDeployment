@@ -359,9 +359,17 @@ footer {
     padding: 5rem 0;
 }
 
+
+/*
 body,
 html {
     height: 100%;
+} */
+
+body {
+    background-image: url("img/bg-abstract-Black.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 
